@@ -1,0 +1,37 @@
+en:
+  spree:
+    admin:
+      tab:
+        overview: Dashboard
+    simple_dash:
+      abandoned_carts: Panier abandonnés
+      abandoned_carts_products: Produits de panier abandonnés
+      abandoned_orders: Commandes abandonnées
+      best_selling_products: Produits les plus vendus
+      best_selling_taxons: Taxons les plus vendus
+      biggest_spenders: Meilleurs clients
+      by_day: par jour
+      checkout_steps: Étapes de paiement
+      completed_carts: Paniers terminés
+      count: Count
+      five_biggest_spenders: 5 Biggest Spenders
+      item: Article
+      items: Articles
+      last_14_days: Les 14 derniers jours
+      last_5_orders: Les 5 Commandes les plus récentes
+      last_7_days: Les 7 derniers jours
+      last_month: Mois dernier
+      last_year: L'année dernière
+      new_users: Nouveaux utilisateurs
+      ord_qty: Qté Commandées
+      ord_total: Commandes Total
+      orders: Commandes
+      out_of_stock_products: Produits en rupture de stock
+      overview: Dashboard
+      overview_welcome: Bienvenue dans le Dashboard de votre boutique, nous n'avons actuellement pas assez de données pour afficher le tableau de bord. il s'affichera automatiquement une fois que le système aura suffisamment de commandes pour permettre la génération des statistiques.
+      range: Intervalle
+      this_month: Ce mois-ci
+      this_year: Cet année
+      top_grossing_products: Produits les plus rentables
+      units: Unités
+      value: valeur

@@ -2,7 +2,7 @@ fr:
   spree:
     admin:
       tab:
-        overview: Dashboard
+        overview: Tableau de bord
     simple_dash:
       abandoned_carts: Panier abandonnés
       abandoned_carts_products: Produits de panier abandonnés
@@ -13,7 +13,7 @@ fr:
       by_day: par jour
       checkout_steps: Étapes de paiement
       completed_carts: Paniers terminés
-      count: Count
+      count: Nombre
       five_biggest_spenders: 5 Biggest Spenders
       item: Article
       items: Articles
@@ -27,11 +27,11 @@ fr:
       ord_total: Commandes Total
       orders: Commandes
       out_of_stock_products: Produits en rupture de stock
-      overview: Dashboard
+      overview: Tableau de bord
       overview_welcome: Bienvenue dans le Dashboard de votre boutique, nous n'avons actuellement pas assez de données pour afficher le tableau de bord. il s'affichera automatiquement une fois que le système aura suffisamment de commandes pour permettre la génération des statistiques.
       range: Intervalle
       this_month: Ce mois-ci
       this_year: Cet année
       top_grossing_products: Produits les plus rentables
       units: Unités
-      value: valeur
+      value: Valeur
